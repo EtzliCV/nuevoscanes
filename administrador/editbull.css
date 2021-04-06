@@ -39,7 +39,7 @@
 
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 800px) {
   .bulld {
     text-align: center;
     font-size: 20px;
