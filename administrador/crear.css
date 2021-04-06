@@ -1,0 +1,63 @@
+/*Navbar*/
+.tp {
+  font-family: "Marmelad", sans-serif;
+}
+
+/* 
+
+.borderc {
+  font-family: "Barlow", sans-serif;
+}*/
+
+/*Formulario*/
+
+.welcome{
+  background-color:#1084c3;
+}
+
+.formulario{
+  background-image: url(../img/huellasazul.png);
+  background-size: cover;
+  font-family:"Marmelad", sans-serif;
+  padding: 30px;
+  
+}
+
+.text-form{
+  font-family:"Marmelad", sans-serif;
+  text-align: center;
+  font-size: 30px;
+  color:  #f7a504;
+
+}
+.text-form2{
+  font-family:"Marmelad", sans-serif;
+  text-align: center;
+  font-size: 40px;
+  color: white
+
+}
+
+.form-group input{
+  text-align: center;
+}
+
+
+
+
+/* Footer*/
+
+.footer{
+  margin-top: 20px;
+  height: 50px;
+  background-color: black;
+}
+
+.text-footer{
+  padding: 10px;
+  font-family: "Marmelad", sans-serif;
+  font-size: 15px;
+  text-align: center;
+  color: white;
+}
+
